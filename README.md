@@ -57,13 +57,15 @@ BigMart-Sales-Prediction/
 
 │
 
-├── app.py / notebook.ipynb   # Main implementation file
+├── app.py / notebook.ipynb             # Main implementation file
 
-├── requirements.txt          # Dependencies
+├── requirements.txt                    # Dependencies
 
-├── bigmart_best_model.pkl    # Saved best ML model
+├── bigmart_best_model.pkl              # Saved best ML model
 
-└── README.md                 # Project overview 
+├── Bigmart_prediction_model_demo.webm  # Demo
+
+└── README.md                           # Project overview 
 
 # ⚙️ Setup & Installation
 
